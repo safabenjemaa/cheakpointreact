@@ -1,0 +1,16 @@
+.App{
+  align-items: center;
+  border-radius:30px ;
+  border: 3px solid rgb(109, 116, 92);
+  padding-left: 20px;
+  padding-right:  20px; 
+  margin-top:120px;;
+  margin-bottom: 120px;
+  background-color: rgb(206, 206, 145);
+}
+.formulaire{
+  color: rgb(68, 68, 29);
+  font-family: 'Courier New', Courier, monospace;
+
+}
+
